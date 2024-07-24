@@ -1,0 +1,5 @@
+class Hlo
+public static void main(String c[])
+{
+System.out.print("lab");
+}
